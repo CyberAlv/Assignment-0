@@ -12,7 +12,7 @@ function pairSum(nums, target) {
     }
   return false;
 }
-}
+
 
 // Do not edit this line;
 module.exports = pairSum;
